@@ -1,4 +1,7 @@
-WP Swift: Email Templates
+# WP Swift: Email Templates
+
+### Note that this is still at an experimental stage and not for use outside of development environments.
+
 
  * Plugin Name:    WP Swift: Email Templates
  * Description:    Send emails in a html wrapper
